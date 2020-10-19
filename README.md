@@ -2,12 +2,25 @@
 
 ## 01 Multiband Blending
 
-** 입력 이미지 ** 
-<img src="OpenCV_seonga/assignment1_image/burt_apple.png" width="50%" height="50%" title="apple" alt="inputImage"></img>    
+**입력 이미지**      
 
-<img src="OpenCV_seonga/assignment1_image/burt_orange.png" width="50%" height="50%" title="orange" alt="inputImage"></img>    
 
-** 마스크 ** 
+
+
+<img src="OpenCV_seonga/assignment1_image/burt_apple.png" width="50%" height="50%" title="apple" alt="inputImage"></img>     
+
+
+
+
+<img src="OpenCV_seonga/assignment1_image/burt_orange.png" width="50%" height="50%" title="orange" alt="inputImage"></img>      
+
+
+
+
+
+          
+**마스크**          
+
 <img src="OpenCV_seonga/assignment1_image/burt_mask.png" width="50%" height="50%" title="mask" alt="inputImage"></img>    
 
 ### 방법 
