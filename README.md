@@ -19,4 +19,9 @@
       
 ### 결과 
 
-<img src="OpenCV_seonga/assignment1_image/result.png" width="50%" height="50%" title="result" alt="outputImage"></img>   
+<img src="OpenCV_seonga/assignment1_image/result.png" width="50%" height="50%" title="result" alt="outputImage"></img>        
+       
+        
+* 참고문서      
+   * <https://www.morethantechnical.com/2011/11/13/just-a-simple-laplacian-pyramid-blender-using-opencv-wcode/>      
+   * <https://opencv-python.readthedocs.io/en/latest/doc/14.imagePyramid/imagePyramid.html>
